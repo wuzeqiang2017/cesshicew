@@ -1,0 +1,7 @@
+在工作空间build.gradle中allprojects {}里面写入	:						maven {url'https://jitpack.io'}
+
+在App项目中build.gradle 中添加一个依赖  :
+		 compile 'com.github.ForgiveAll:Xlistview:v1.0'
+
+
+
